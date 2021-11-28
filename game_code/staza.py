@@ -17,11 +17,11 @@ up=False
 down=False
 font=pygame.font.Font('freesansbold.ttf',32)
 
-img_d=pygame.image.load('car1.png')
-img_u=pygame.image.load('car2.png')
-img_r=pygame.image.load('car3.png')
-img_l=pygame.image.load('car4.png')
-img_h=pygame.image.load('home.png')
+img_d=pygame.image.load('images/car1.png')
+img_u=pygame.image.load('images/car2.png')
+img_r=pygame.image.load('images/car3.png')
+img_l=pygame.image.load('images/car4.png')
+img_h=pygame.image.load('images/home.png')
 textx=700
 texty=50
 
